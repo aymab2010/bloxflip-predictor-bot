@@ -1,3 +1,5 @@
+## Use my affliate code for a more accurate predictor! DM me for my affliate code @ vanis#1234
+
 ## Prerequisites
 
 - [Python](https://www.python.org/downloads/) - Make sure to add it to PATH as well!
