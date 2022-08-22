@@ -19,12 +19,12 @@
 This bot is a mines, and towers predictor for bloxflip, this is just proof of how easy bloxflip "predictors" are to make!
 
 Commands
-- .towers <mode>
+- .towers (mode)
 - .roulette 
-- .mines <amount>
+- .mines (amount)
 - .help
 - .status (soon)
-- .redeem <code> (soon)
+- .redeem (code) (soon)
 - .site (soon)
 - .crash (soon)
 
