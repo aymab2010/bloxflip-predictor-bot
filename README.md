@@ -61,9 +61,10 @@ Note: Editing any of the .env vairable names will mess up the bot, DO NOT change
 
 ## Dependencies
 
-There are 1 dependencie(s) you need to install to have the program to work.
+There are 2 dependencies you need to install to have the program to work.
 
 - discord
+- python-dotenv
 
 To install the packages open a terminal in the umbrella path, you can do this by clicking on the pathing bar and typing 'cmd' and hitting enter.
 
@@ -73,6 +74,7 @@ Just use pip install package-name in your terminal to install them.
 
 ## References
 - Framework - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
+- Framwork - [Python-Dotenv](https://pypi.org/project/python-dotenv/)
 ---
 
 ## Author Info
