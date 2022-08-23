@@ -34,7 +34,7 @@ Commands
 
 ## How To Setup
 
-In your env file there are 9 number of things you need to fill in!
+In your env file there is one things you need to fill in!
 
 ```
 BOT_TOKEN=
