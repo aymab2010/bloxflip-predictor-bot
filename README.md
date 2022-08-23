@@ -1,4 +1,4 @@
-## Releasing code at 10 stars and 20 followers!
+## Releasing code at 10 stars!
 
 ## Prerequisites
 
