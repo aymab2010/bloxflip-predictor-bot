@@ -1,4 +1,4 @@
-## Use my affliate code for a more accurate predictor! DM me for my affliate code @ vanis#1234
+## Releasing at 10 stars and 20 followers!
 
 ## Prerequisites
 
